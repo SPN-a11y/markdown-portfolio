@@ -1,5 +1,5 @@
-*Food
-*Music
-*Travel
-*Phone
-*My home
+* Food
+* Music
+* Travel
+* Phone
+* My home
